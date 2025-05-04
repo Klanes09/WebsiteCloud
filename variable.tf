@@ -1,0 +1,1 @@
+variable "vercel_token" {}
