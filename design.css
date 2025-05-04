@@ -92,6 +92,28 @@
     transition: 1s;
 }
 
+#enter{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    transform: translate(600px, 75px);
+    color: white;
+    border-radius: 20px;
+    background-color: rgba(172, 163, 163, 0.4);
+    font-size: 20px;
+    box-shadow: #f7f7f7 0px 0px 20px;
+}
+#submit{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgba(94, 96, 230, 0.4);
+    font-size: 20px;
+    box-shadow: #f7f7f7 0px 0px 20px
+}
+
 /* CSS for the next page */
 
 #body2{
@@ -184,6 +206,9 @@
     margin: 0;
 }
 
+#Moreinfo{
+    text-align: justify;
+}
 /* CSS for more page */
 
 #body3{
@@ -220,3 +245,5 @@
     background-color: rgba(250, 250, 250, 0.849);
     cursor: pointer;
 }
+
+/* CSS for more2 */
